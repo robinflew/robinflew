@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kabbo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,  <a href="https://www.linkedin.com/in/joshmadakor/">AWS Cloud Practitioner</a></h1>
+<h1>Hi, I'm Kabbo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Penetration Tester</a>,  <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Practioner</a></h1>
 
 <h2> Software Development Projects:</h2>
 
@@ -25,7 +25,7 @@
 
 - <b>In Progress</b>
 
-<h2> AWS Cloud Projects:</h2>
+<h2> Cloud Projects:</h2>
 
 - <b>In Progress</b>
 
