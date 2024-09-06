@@ -35,14 +35,9 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="KabboSultan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="KabboSultan | Xr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="KabboSultan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KabboSultan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[X]: https://twitter.com/KabboSultan
-[youtube]: https://www.youtube.com/channel/UCa30PaVDViq-8ZlNVc5Dieg
-[instagram]: https://www.instagram.com/kabbosultan/
+[<img align="left" alt="KabboSultan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/kabbo-sultan-27692729b/
 
 <!--
