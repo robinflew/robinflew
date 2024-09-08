@@ -23,15 +23,12 @@
     
 <h2> Cybersecurity Projects:</h2>
 
-- <b>In Progress</b>
+- <b>Currently building a Honey Pot in Azure</b>
 
 <h2> Cloud Projects:</h2>
 
-- <b>In Progress</b>
+- <b>Currently building a Honey Pot in Azure</b>
 
-<h2> Popular YouTube Videos</h2>
-
-- <b>In Progress</b>
 
 <h2> Connect with me:</h2>
 
