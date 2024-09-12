@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kabbo! Aspiring<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Software Developer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Specialist</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
+<h1>Hi, I'm Kabbo! Aspiring<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Software Developer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Engineer</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
 
 <h2> Software Development Projects:</h2>
 
