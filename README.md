@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kabbo! Aspring<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Software Developer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Specialist</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
+<h1>Hi, I'm Kabbo! Aspiring<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Software Developer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Specialist</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
 
 <h2> Software Development Projects:</h2>
 
@@ -23,11 +23,11 @@
     
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Currently building a Honey Pot in Azure</b>
+- <b>Currently building a Honeynet Lab in Azure</b>
 
 <h2> Cloud Projects:</h2>
 
-- <b>Currently building a Honey Pot in Azure</b>
+- <b>Currently building a Honeynet Lab in Azure</b>
 
 
 <h2> Connect with me:</h2>
