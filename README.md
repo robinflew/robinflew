@@ -24,7 +24,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Currently building a Honeynet Lab in Azure</b>
-- <b>Currently building a Vulnerability Scanner using Nessus</b>
+- <b>Currently building a Vulnerability Assessment Lab</b>
 - <b>Currently building a Password Manager hosted in AWS</b>
 - <b>Currently building a Microsoft Sentinel SIEM</b>
 - <b>Currently building a SIEM Integration with AI</b>
