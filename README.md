@@ -31,7 +31,7 @@
 <h2> Cloud Projects:</h2>
 
 - <b>Currently building a Honeynet Lab in Azure</b>
-- <b>Currently building a Password Manager hosted in AWS</b>
+- <b>Currently building a Password Management System in AWS</b>
 - <b>Currently building an AI Enabled Incident Response Automation Solution in Azure</b>
 
 <h2> Connect with me:</h2>
