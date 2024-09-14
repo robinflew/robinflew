@@ -24,7 +24,6 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Currently building a Honeynet Lab in Azure</b>
-- <b>Currently building a Vulnerability Assessment Lab</b>
 - <b>Currently building a Password Management System in AWS</b>
 - <b>Currently building a Microsoft Sentinel SIEM</b>
 - <b>Currently building an AI Enabled Incident Response Automation Solution in Azure</b>
