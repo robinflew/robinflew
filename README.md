@@ -24,12 +24,13 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Currently building a Honeynet Lab in Azure</b>
-- <b>Currently building a Microsoft Sentinel SIEM</b>
+- <b>Currently building a SIEM Implementation in Azure Cloud</b>
 - <b>Currently building an AI Enabled Incident Response Automation Solution in Azure</b>
 
 <h2> Cloud Projects:</h2>
 
 - <b>Currently building a Honeynet Lab in Azure</b>
+- <b>Currently building a SIEM Implementation in Azure Cloud</b>
 - <b>Currently building an AI Enabled Incident Response Automation Solution in Azure</b>
 
 <h2> Connect with me:</h2>
