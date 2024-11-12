@@ -1,5 +1,11 @@
 <h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Programmer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Engineer</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
+<h2> Cybersecurity Projects:</h2>
 
+- <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
+
+<h2> Cloud Projects:</h2>
+
+- <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
 <h2> Programming Projects:</h2>
 
 - <b>C++ Projects<b/>
@@ -21,13 +27,7 @@
   - [Turtle Crossing Game](https://github.com/robinflew/Turtle-Crossing)
   - [Hotel Booking Bot](https://github.com/robinflew/Hotel-Booking)
     
-<h2> Cybersecurity Projects:</h2>
 
-- <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
-
-<h2> Cloud Projects:</h2>
-
-- <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
 
 <h2> Connect with me:</h2>
 
