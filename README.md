@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Programmer</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Engineer</a>,  <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a></h1>
+<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/"><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Engineer</a>,<a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a>, Programmer</a></h1>
+
 <h2> Cybersecurity Projects:</h2>
 
 - <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
@@ -6,6 +7,7 @@
 <h2> Cloud Projects:</h2>
 
 - <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
+
 <h2> Programming Projects:</h2>
 
 - <b>C++ Projects<b/>
