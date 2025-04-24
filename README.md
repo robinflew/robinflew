@@ -1,8 +1,12 @@
-<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cloud Practioner</a> <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">& Programmer</a></h1>
+<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Data Analyst</a> <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">& Programmer</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
 - <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
+
+<h2> Data Analytics Projects:</h2>
+
+- <b>[Coming Soon]</b>
 
 <h2> Cloud Projects:</h2>
 
