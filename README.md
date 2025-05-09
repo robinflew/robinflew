@@ -3,10 +3,11 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
+- <b>[Cybersecurity Attack Analysis](https://github.com/robinflew/M0BusinessDataAnalysis_SultanK)</b>
 
 <h2> Data Analytics Projects:</h2>
 
-- <b>[Cybersecurity Attack Analysis: Monthly Attack Trends](https://github.com/robinflew/MarcyLabs-DA)</b>
+- <b>[Cybersecurity Attack Analysis](https://github.com/robinflew/M0BusinessDataAnalysis_SultanK)</b>
 
 <h2> Cloud Projects:</h2>
 
