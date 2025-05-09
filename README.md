@@ -6,7 +6,7 @@
 
 <h2> Data Analytics Projects:</h2>
 
-- <b>[Marcy Lab](https://github.com/robinflew/MarcyLabs-DA)</b>
+- <b>[Cybersecurity Attack Analysis: Monthly Attack Trends](https://github.com/robinflew/MarcyLabs-DA)</b>
 
 <h2> Cloud Projects:</h2>
 
