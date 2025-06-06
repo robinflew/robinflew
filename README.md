@@ -9,10 +9,6 @@
 
 - <b>[Cybersecurity Attack Analysis](https://github.com/robinflew/M0BusinessDataAnalysis_SultanK)</b>
 
-<h2> Cloud Projects:</h2>
-
-- <b>[Honeynet Lab in Azure](https://github.com/robinflew/Cloud-SOC/tree/main)</b>
-
 <h2> Programming Projects:</h2>
 
 - <b>C++ Projects<b/>
