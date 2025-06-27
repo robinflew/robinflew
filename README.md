@@ -8,6 +8,7 @@
 <h2> Data Analytics Projects:</h2>
 
 - <b>[Cybersecurity Attack Analysis](https://github.com/robinflew/M0BusinessDataAnalysis_SultanK)</b>
+- <b>[Cafe Sales Data Analysis](https://github.com/robinflew/Cafe-Sales-Data-Analysis)</b>
 
 <h2> Programming Projects:</h2>
 
