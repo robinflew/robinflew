@@ -30,6 +30,8 @@
   - [Turtle Racing Game](https://github.com/robinflew/TurtleRacing)
   - [Turtle Crossing Game](https://github.com/robinflew/Turtle-Crossing)
   - [Hotel Booking Bot](https://github.com/robinflew/Hotel-Booking)
+  - [Cafe Sales Data Analysis](https://github.com/robinflew/Cafe-Sales-Data-Analysis)
+
     
 
 
