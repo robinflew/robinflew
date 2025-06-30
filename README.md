@@ -9,6 +9,8 @@
 
 - <b>[Cybersecurity Attack Analysis](https://github.com/robinflew/M0BusinessDataAnalysis_SultanK)</b>
 - <b>[Cafe Sales Data Analysis](https://github.com/robinflew/Cafe-Sales-Data-Analysis)</b>
+- <b>[2008 Financial Crash Analysis](https://github.com/robinflew/2008-Financial-Crash-Analysis)</b>
+
 
 <h2> Programming Projects:</h2>
 
